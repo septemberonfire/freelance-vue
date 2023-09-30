@@ -18,7 +18,7 @@ export default defineConfig({
   build: {
     outDir: 'docs'
   },
-  base: '/freelance-vue',
+  base: '/',
   resolve: {
     alias: [
       {
